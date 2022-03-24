@@ -1,5 +1,5 @@
 - Hi, I'm @aliahmad346
-- I have previous experience in data analytics, data engineering, feature engineering and client coordination 
+- I have professional experience in data analytics, data engineering, feature engineering and client coordination 
 - Currently part of the MScA 2022 class @ University of Chicago
 - Continuously learning and developing expertise in data mining, big data platforms and machine learning! 
 - Feel free to reach me at: aliahmad@uchicago.edu, https://www.linkedin.com/in/muhammad-ali-ahmad-237238103/
