@@ -3,7 +3,7 @@
 - Currently working as a Data Scientist at Ecolab, with experience in ML OPS, KPI development and monitoring, Machine Learning, Dashboards and Client Coordination 
 - Graduated from the MScA 2022 class @ University of Chicago
 - Consistently learning and developing expertise in big data platforms, data mining and machine learning! 
-- Feel free to reach me at: aliahmad@uchicago.edu, https://www.linkedin.com/in/muhammad-ali-ahmad-237238103/
+- Feel free to reach me at: aliahmad02426@gmail.com, [https://www.linkedin.com/in/muhammad-ali-ahmad-237238103/](https://www.linkedin.com/in/aliahmad02426/)
 
 <!---
 aliahmad346/aliahmad346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
